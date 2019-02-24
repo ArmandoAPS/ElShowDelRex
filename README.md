@@ -1,12 +1,8 @@
-# Pensum
+# El Show del Rex
 Política de Privacidad
 
-Pensum está disponible en Google Play (link: https://play.google.com/store/apps/details?id=com.anafesoft.pensum)
+Está disponible en Google Play (link: https://play.google.com/store/apps/details?id=com.elshowdelrex)
 
 1. La información que colectamos
-
-El test de orientación vocacional, los estatus de las asignaturas, tus horarios y calificaciones son almacenados localmente en tu dispositivo. Tienes la opción de hacer respaldos de la información. Los respaldos son almacenados en las nubes. Cuando la aplicación es desinstalada todos los datos son eliminados, al instalar la aplicación nuevamente los datos son recuperados. Respetamos tu privacidad y no almacenamos ningún tipo de información relativa a tu identidad.   
-
-2. Información colectada por terceros
-
-Para brindar un mejor servicio en cuanto a la autenticación y los respalados de información, nos apoyamos en los servicios de terceros. No compartimos información de identidad con estos ni con nadie.
+   
+   Por el momento ninguna.
